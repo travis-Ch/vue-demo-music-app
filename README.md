@@ -1,6 +1,7 @@
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
+https://vue-demo-music.netlify.app/
 
 
 # Contributing
